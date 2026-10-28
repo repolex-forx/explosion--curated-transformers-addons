@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "curated-transformers-addons",
+  "versions": [
+    {
+      "commit": "62578a013e8bb8147fcd2b6ec55d99a7abe11890",
+      "tag": "v2.0.0.dev0",
+      "parsed_at": "2026-10-28T11:41:34.636700+00:00"
+    }
+  ]
+}
