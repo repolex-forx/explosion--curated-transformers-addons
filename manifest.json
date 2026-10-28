@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "curated-transformers-addons",
+  "versions": [
+    {
+      "commit": "62578a013e8bb8147fcd2b6ec55d99a7abe11890",
+      "parsed_at": "2026-10-28T11:39:42.407459+00:00",
+      "tag": "v2.0.0.dev0",
+      "filetree": "filetree/62578a013e8bb8147fcd2b6ec55d99a7abe11890.nq.gz",
+      "blobs": [
+        "blob/4d4b944a0d00d72a0cdcde076c81e079546a4939.nq.gz",
+        "blob/2a6b7487daa85ae817fbab6bcad6aad0dc527550.nq.gz",
+        "blob/082469080a2f6add8ab49d5c356ef4a972ea5d43.nq.gz",
+        "blob/a86a58bbcd67e237a518fcfcaa8b4325869c7556.nq.gz",
+        "blob/13910b04504083726346e0222a8c7914ea4c120c.nq.gz",
+        "blob/343b5417ecc47d5de2e3905a88765c0e9a0228f8.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}

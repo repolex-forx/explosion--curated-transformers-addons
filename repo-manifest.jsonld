@@ -1,0 +1,15 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/explosion/curated-transformers-addons",
+  "@type": "gh:Repository",
+  "gh:name": "curated-transformers-addons",
+  "gh:owner": "explosion",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/explosion/curated-transformers-addons/commit/62578a013e8bb8147fcd2b6ec55d99a7abe11890",
+      "git:hexsha": "62578a013e8bb8147fcd2b6ec55d99a7abe11890",
+      "repolex:parseStatus": "metadata_complete",
+      "git:tagName": "v2.0.0.dev0"
+    }
+  ]
+}
