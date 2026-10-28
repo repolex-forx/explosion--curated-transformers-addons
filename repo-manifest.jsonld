@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/curated-transformers-addons/commit/62578a013e8bb8147fcd2b6ec55d99a7abe11890",
       "git:hexsha": "62578a013e8bb8147fcd2b6ec55d99a7abe11890",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.0.0.dev0"
     }
   ]
